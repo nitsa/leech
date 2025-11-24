@@ -6,7 +6,11 @@ A generated file ID can later be used to download the file. The tool has a basic
 
 Different log types can easily be supported with minimal code changes.
 
-You should change the default encryption keys in the code.
+Please  should change the default encryption keys in the code before using it.
+
+web_service.py is an example of a local web service which exposed locally the file access.log
+
+leech.py is the actual tool.
 
 Note that tool should be used without breaking the law and in order to conduct legal activities.
 
