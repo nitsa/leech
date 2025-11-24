@@ -10,9 +10,9 @@ Different log types can easily be supported with minimal code changes.
 
 Please change the default encryption keys before using it.
 
-web_service.py is an example of a local web service which exposed locally the file access.log
+web_service.py is an example of a local web service which exposes access.log file.
 
 leech.py is the actual tool.
 
-Note that tool should be used without breaking the law and in order to conduct legal activities.
+Note that tool must be used WITHOUT breaking the law and in order to conduct legal activities.
 
