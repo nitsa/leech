@@ -6,7 +6,7 @@ A generated file ID can later be used to download the file. The tool has a basic
 
 Different log types can easily be supported with minimal code changes.
 
-Please  should change the default encryption keys in the code before using it.
+Please change the default encryption keys before using it.
 
 web_service.py is an example of a local web service which exposed locally the file access.log
 
